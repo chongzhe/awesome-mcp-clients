@@ -1,10 +1,10 @@
-    - [AgentConnect](#agentconnect)
 # Awesome MCP Clients [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
 A curated list of awesome Model Context Protocol (MCP) clients.
+
 > [!NOTE]
 > For most up to date MCP client list, please refer to https://glama.ai/mcp/clients
 
