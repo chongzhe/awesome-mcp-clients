@@ -5,7 +5,6 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
 A curated list of awesome Model Context Protocol (MCP) clients.
-
 > [!NOTE]
 > For most up to date MCP client list, please refer to https://glama.ai/mcp/clients
 
@@ -33,12 +32,13 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [eechat](#eechat)
     - [5ire](#5ire)
     - [Agent Bridge](#agent-bridge)
-    - [AgentOne](#agentone)
+    - [AgentConnect](#agentconnect)        
+        - [AgentOne](#agentone)
     - [AIaW](#aiaw)
     - [Ano](#ano)
     - [AstrBot](#AstrBot)
     - [Autohand Code CLI](#autohand-code-cli)
-    - [AnythingLLM](#anythingllm)
+        - [AnythingLLM](#anythingllm)
     - [BrowseWiz](#browsewiz)
     - [Canvas MCP Client](#canvas-mcp-client)
     - [CarrotAI](#carrotai)
