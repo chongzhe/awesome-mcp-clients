@@ -1,3 +1,4 @@
+    - [AgentConnect](#agentconnect)
 # Awesome MCP Clients [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
@@ -243,6 +244,22 @@ A deployable web-based agent platform for remote MCP servers featuring human-in-
 </table>
 
 AgentOne is a fully-featured AI agent desktop app that takes a goal in plain language and carries it out end-to-end across your apps. It connects 600+ AI models from 20+ providers (OpenAI, Anthropic, Google, xAI, Mistral, Groq, Cerebras, and more) with 2,000+ extensions for apps like Gmail, Notion, Slack, GitHub, and Google Calendar, and supports user-added MCP servers for further extensibility. Multiple agents can run in parallel, your data stays on your device by default, and you can bring your own API keys with no markup.
+
+### AgentConnect
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/agentconnect-md/agentconnect</td></tr>
+<tr><th align="left">Website</th><td>https://agentconnect.md</td></tr>
+<tr><th align="left">License</th><td>Apache-2.0</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web, self-hosted (Docker Compose, Kubernetes)</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+Open-source platform for running several AI coding agents alongside a team. Agents run on a self-hosted daemon and are reachable from Slack, Telegram, Discord and Lark, and from issues and pull requests on GitHub, GitLab and Gitea. Each agent is configured separately with its own runtime, model, workspace, tools and permissions.
+
+MCP servers are attached per agent. The daemon acts as an MCP client over Streamable HTTP and operator-configured stdio transports, and the tools a server exposes become available to that agent’s sessions under that agent’s existing permissions.
 
 Learn more on the [website](https://www.agent-one.dev), [docs](https://docs.agent-one.dev), or [blog](https://blog.agent-one.dev). Get help on the [forum](https://forum.agent-one.dev).
 
